@@ -1,4 +1,4 @@
-# This is git recalls repository
+# This is git recalls repository (for concepts understanding)
 
 ### 1. `cheery-pick`
 
