@@ -18,6 +18,10 @@ Step 7: make some changes to commit it and the open PR targeting for `feature/1.
 
 Step 8: merge `feature/1.2.0` into master
 
+
 Step 9: after we merged `feature/changes-before-release-1.2.0` into `feature/release-1.3.0` branch, now we can branch out from `feature/release-1.3.0`
 
 Step 10: now, we will make some `NEW` changes and merge into `feature/release-1.3.0`
+
+Step 11: create a new branch `feature/changes-before-release-1.3.0` and make changes and then commit it.
+
